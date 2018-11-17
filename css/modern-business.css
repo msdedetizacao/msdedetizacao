@@ -27,3 +27,45 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.bg-dark {
+  background-color: #f79350 !important; 
+}
+.btn-lg {
+  background-color: #f79350 !important;
+  border: #f79350 !important;
+}
+
+.btn-secondary{
+  color: #000000 !important;
+}
+
+.btn-primary{
+  background-color: #f79350 !important;
+  border: #f79350 !important;
+  color: #000000;
+}
+
+#whatsappIcon {
+  color: #000000;
+}
+
+a p h1 h2 h3 h4 h5 h6{ 
+  color: #000000 !important;
+}
+
+.navbar-brand{
+  color: #000000 !important;
+}
+
+.navbar-toggler-icon{
+  color: #000000 !important;
+}
+
+.nav-link {
+  color: #000000 !important;
+}
+
+.navbar-dark .navbar-toggler{
+  border-color: #000000 !important;
+}
