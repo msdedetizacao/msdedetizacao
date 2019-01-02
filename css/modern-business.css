@@ -29,25 +29,25 @@ body {
 }
 
 .bg-dark {
-  background-color: #f79350 !important; 
+  background-color: #ff7600 !important; 
 }
 .btn-lg {
-  background-color: #f79350 !important;
-  border: #f79350 !important;
+  background-color: #ff7600 !important;
+  border: #ff7600 !important;
 }
 
 .btn-secondary{
-  color: #000000 !important;
+  color: #ffffff !important;
 }
 
 .btn-primary{
-  background-color: #f79350 !important;
-  border: #f79350 !important;
-  color: #000000;
+  background-color: #ff7600 !important;
+  border: #ff7600 !important;
+  color: #ffffff;
 }
 
 #whatsappIcon {
-  color: #000000;
+  color: #ffffff;
 }
 
 a p h1 h2 h3 h4 h5 h6{ 
@@ -55,7 +55,7 @@ a p h1 h2 h3 h4 h5 h6{
 }
 
 .navbar-brand{
-  color: #000000 !important;
+  color: #ffffff !important;
 }
 
 .navbar-toggler-icon{
@@ -63,7 +63,7 @@ a p h1 h2 h3 h4 h5 h6{
 }
 
 .nav-link {
-  color: #000000 !important;
+  color: #ffffff !important;
 }
 
 .navbar-dark .navbar-toggler{
@@ -82,4 +82,8 @@ a p h1 h2 h3 h4 h5 h6{
   height:100%;
   width:100%;
   position:absolute;
+}
+
+a {
+  color: #ffffff !important;
 }
